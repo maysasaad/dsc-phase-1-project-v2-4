@@ -1,6 +1,6 @@
 # High Movie's Revinues on Boxoffice
 
-<img src='path/to/image-3.png'>
+<img src='images/2222.png'>
 
 ## Project Overview
 
